@@ -71,7 +71,3 @@ Each group consists of 2 individual users.
 
 ---
 
-##  Suggested LinkedIn Hashtags
-```
-#Azure #CloudComputing #AzureRBAC #AzurePolicy #DevOps #MicrosoftAzure #CloudSecurity #NGINX #InfrastructureAsCode #Governance
-```
